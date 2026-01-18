@@ -243,7 +243,3 @@ If you add your Artboard List as a child of a Layout, your List items will behav
 In addition, if you have applied a Scroll Constraint to the parent Layout, the List items will have the ability to scroll out of the box without any additional setup.
 
 There are additional Scroll properties that can be applied when scrolling Lists. See **List Scrolling** for more details.
-
----
-
-Would you like me to also format the "List Scrolling" section mentioned at the end if you provide that text?
